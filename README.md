@@ -4,7 +4,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/zdcqaaG.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PinkyMwol" src="https://img.shieio/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
@@ -61,7 +61,7 @@ the user is responsible.
   
 ```if the 1st deploy button doesnt deploy use this (recomanded to use this 1st)```
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/afnanplk/f34ed6b03429ba67d46c709f841f69f4)    
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/Arafathzrx/f34ed6b03429ba67d46c709f841f69f4)    
      </div>
 <br>
 <br >
